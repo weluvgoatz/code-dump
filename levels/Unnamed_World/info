@@ -1,0 +1,6 @@
+(supertux-level-subset
+  (title (_ "Unnamed World"))
+  (description (_ ""))
+  (levelset #t)
+  (hide-from-contribs #f)
+)
