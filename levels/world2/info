@@ -1,0 +1,6 @@
+(supertux-level-subset
+  (title (_ "Forest World"))
+  (description (_ "Proposed new levels for the main game"))
+  (levelset #f)
+  (hide-from-contribs #f)
+)
